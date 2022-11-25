@@ -1,5 +1,5 @@
-# Multiplatform SwiftUI News App
-A full news app based on SwiftUI that fetches latest news from newsapi.org targeting iOS, macOS, watchOS.
+# <!-- Multiplatform --> SwiftUI News App
+A full news app based on SwiftUI that fetches latest news from newsapi.org targeting iOS.
 
 # Features
 1. Fetch news based on categories: general, business, science, technology, health, entertainment, sports
